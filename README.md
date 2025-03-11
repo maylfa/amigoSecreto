@@ -20,14 +20,8 @@ Este é um projeto simples em HTML, CSS e JavaScript que permite criar uma lista
 4. Repita o processo para adicionar mais amigos.
 5. Clique no botão "Sortear Amigo" para exibir um nome aleatório.
 
-📂 Estrutura do Projeto
-```
-📁 AmigoSecreto
-├── 📄 index.html       # Estrutura principal da página
-├── 📄 style.css        # Estilização do projeto
-├── 📄 app.js           # Código JavaScript
-└── 📁 assets/          # Imagens e ícones
-```
+
+
 
 ⚠️ Possíveis Erros
 - Se tentar adicionar um nome vazio, um alerta será exibido.
